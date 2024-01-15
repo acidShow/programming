@@ -1,0 +1,35 @@
+insert 306
+name
+1
+1
+1
+1
+helicopter
+alcohol
+
+insert 307
+name
+1
+1
+1
+1
+helicopter
+alcohol
+
+insert 308
+name
+1
+1
+1
+1
+helicopter
+alcohol
+
+insert 309
+name
+1
+1
+1
+1
+helicopter
+alcohol

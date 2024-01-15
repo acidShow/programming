@@ -1,0 +1,7 @@
+Main.class
+Threads\ClientThread.class
+Managers\MessageHandler.class
+Threads\ThreadSender.class
+Managers\RunServer.class
+Threads\ClientHandler.class
+Managers\Connection.class

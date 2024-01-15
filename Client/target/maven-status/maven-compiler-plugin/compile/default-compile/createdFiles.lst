@@ -1,0 +1,7 @@
+Mangers\ScriptHandler.class
+Mangers\CommandManager.class
+Mangers\PasswordHandler.class
+Mangers\Connection.class
+MainClient.class
+Mangers\RunClient.class
+Mangers\Validator.class

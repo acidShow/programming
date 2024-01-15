@@ -1,0 +1,327 @@
+insert 1906
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1907
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1908
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1909
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1910
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1911
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1912
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1913
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1914
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1915
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1916
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1917
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1918
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1919
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1920
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1921
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1922
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1923
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1924
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1925
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1926
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1927
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1928
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1929
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1930
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1931
+name
+1
+1
+1
+1
+chopper
+alcohol
+insert 1932
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1933
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1934
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1935
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1936
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1937
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1938
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1939
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1940
+1
+1
+1
+1
+chopper
+alcohol
+insert 1941
+name
+1
+1
+1
+1
+chopper
+alcohol
+insert 1942
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1943
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1944
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1945
+name
+1
+1
+1
+1
+helicopter
+alcohol
+insert 1946
+name
+1
+1
+1
+1
+helicopter
+alcohol
